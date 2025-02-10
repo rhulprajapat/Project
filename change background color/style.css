@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 93px;
+    background-color: #000000;
+    color: #ffffff;
+    width: 52vh;
+    margin: 26vh 35vh 6px 77vh;
+    padding: 7px;
+    border-radius: 6px;
+}
+
+.start, .stop{
+    height: 39px;
+    background-color: #2e2a2a;
+    font-size: 29px;
+    width: 91px;
+    border-radius: 8px;
+    margin: 11px 44px 6px 45px;
+}
